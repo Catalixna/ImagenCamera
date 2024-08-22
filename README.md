@@ -1,2 +1,1 @@
-# ImagenCamera
-cama
+# Reconocimiento Óptico de Caracteres
